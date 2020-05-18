@@ -12,7 +12,7 @@
 
 ---
 [Potree](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/potree_example.gif?raw=true"/>
 
 ---
 [Mapbox](http://example.com/)
