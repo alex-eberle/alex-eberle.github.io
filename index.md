@@ -27,7 +27,7 @@
 ### Digital Cartography
 
 [Physical Map](http://example.com/)
-<img src="images/Physical_Map.jpg?raw=true"/>
+<img src="images/Physical_Map.png?raw=true"/>
 
 ---
 
