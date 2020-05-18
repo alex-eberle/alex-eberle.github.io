@@ -22,7 +22,7 @@
 
 ### Remote Sensing
 
-[Riparian Supervised Classification](https://docs.google.com/presentation/d/1Iwno-TQcGdrulIxekXdyDXScp1abvqpervPJxdOK24g/edit#slide=id.p)
+[Riparian Buffer Supervised Classification](https://docs.google.com/presentation/d/1Iwno-TQcGdrulIxekXdyDXScp1abvqpervPJxdOK24g/edit#slide=id.p)
 <img src="images/TownBranch_NIR.jpg?raw=true"/>
 
 ---
