@@ -2,10 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Python Projects
 
 [KY-3D](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+### Interactive Web Maps
 
 ---
 [Potree](/pdf/sample_presentation.pdf)
@@ -26,12 +29,12 @@
 
 ### Digital Cartography
 
-[Physical Map](http://example.com/)
+[Physical Map](https://alex-eberle.github.io/images/Physical_Map.png)
 <img src="images/Physical_Map.png?raw=true"/>
 
 ---
 
-## References
+#### References
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
