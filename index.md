@@ -16,6 +16,10 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Riparian Classification](https://docs.google.com/presentation/d/1Iwno-TQcGdrulIxekXdyDXScp1abvqpervPJxdOK24g/edit#slide=id.p)
+<img src="TownBranch_NIR.jpg?raw=true"/>
+
+---
 
 ### Category Name 2
 
