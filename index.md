@@ -17,7 +17,11 @@
 
 ---
 [Riparian Classification](https://docs.google.com/presentation/d/1Iwno-TQcGdrulIxekXdyDXScp1abvqpervPJxdOK24g/edit#slide=id.p)
-<img src="TownBranch_NIR.jpg?raw=true"/>
+<img src="images/TownBranch_NIR.jpg?raw=true"/>
+
+---
+[Physical Map](http://example.com/)
+<img src="images/Physical Map.jpg?raw=true"/>
 
 ---
 
