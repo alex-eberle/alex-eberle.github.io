@@ -10,7 +10,6 @@
 ---
 ### Interactive Web Maps
 
----
 [Potree](https://alexgis-projects.github.io/rrg/potree/)
 <img src="images/potree_example.gif?raw=true"/>
 
