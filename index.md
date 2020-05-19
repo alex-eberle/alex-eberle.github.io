@@ -11,7 +11,7 @@
 ### Interactive Web Maps
 
 ---
-[Potree](/pdf/sample_presentation.pdf)
+[Potree](https://alexgis-projects.github.io/rrg/potree/)
 <img src="images/potree_example.gif?raw=true"/>
 
 ---
