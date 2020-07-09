@@ -14,7 +14,7 @@
 <img src="images/potree_example.gif?raw=true"/>
 
 ---
-[Mapbox](http://example.com/)
+[Mapbox](https://alexgis-projects.github.io/rrg/mapbox/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
