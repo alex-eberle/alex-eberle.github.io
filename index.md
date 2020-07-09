@@ -15,7 +15,7 @@
 
 ---
 [Mapbox](https://alexgis-projects.github.io/rrg/mapbox/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screen Shot 2020-07-09 at 9.29.08 AM.png?raw=true"/>
 
 ---
 
